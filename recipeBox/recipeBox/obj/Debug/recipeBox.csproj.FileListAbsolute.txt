@@ -69,7 +69,6 @@ C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\bin\System.Web.Web
 C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\bin\Newtonsoft.Json.xml
 C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\bin\Antlr3.Runtime.pdb
 C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\obj\Debug\recipeBox.csprojAssemblyReference.cache
 C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\obj\Debug\recipeBox.csproj.CoreCompileInputs.cache
 C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\obj\Debug\recipeBox.csproj.CopyComplete
 C:\Users\cse62\OneDrive\Desktop\RecipeBox\recipeBox\recipeBox\obj\Debug\recipeBox.dll

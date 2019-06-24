@@ -13,6 +13,7 @@ namespace recipeBox.Models
         public int IngrediantId { get; set; }
         public string Name { get; set; }
         public double Amount { get; set; }
+        public double Temp { get; set; }
         
         [ForeignKey("Recipe")]
         public int RecipeId { get; set; }
