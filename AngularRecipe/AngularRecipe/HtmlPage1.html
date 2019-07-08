@@ -1,6 +1,15 @@
 ﻿<!DOCTYPE html>
 <html lang="en-US">
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<script>
+    var app = angular.module("RecipeBox", []);
+    app.controller("myCtrl", function ($scope) {
+        $scope.products = ["Pasta", "Bread", "Chili"];
+        $scope.addItem = function () {
+            $scope.products.push($scope.addMe);
+        }
+    });
+</script>
 <head>
     <meta charset="utf-8" />
     <title>Recipe Box an Angular Project</title>
